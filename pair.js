@@ -85,7 +85,7 @@ router.get("/", async (req, res) => {
             const mg = `*Don't share this ID anyone*‼️`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://raw.githubusercontent.com/mageekabn/WA-BOT-JPG/refs/heads/main/background_4.jpg",
+                url: "https://raw.githubusercontent.com/tharushax499/JPG/refs/heads/main/20241127_182137.jpg",
               },
               caption: sid,
             });
